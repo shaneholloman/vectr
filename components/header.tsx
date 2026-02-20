@@ -89,7 +89,7 @@ export const Header = () => (
       <DeployButton />
       <Button asChild size="sm" variant="outline">
         <a
-          href="https://github.com/vercel/vectr"
+          href="https://github.com/vercel-labs/vectr"
           rel="noopener noreferrer"
           target="_blank"
         >

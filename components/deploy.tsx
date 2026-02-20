@@ -18,7 +18,7 @@ export const DeployButton = () => {
 
   // Repository
   url.searchParams.set("repository-name", "vectr");
-  url.searchParams.set("repository-url", "https://github.com/vercel/vectr");
+  url.searchParams.set("repository-url", "https://github.com/vercel-labs/vectr");
 
   // Integrations
   url.searchParams.set(
